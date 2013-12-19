@@ -35,7 +35,7 @@
             </intent-filter>
             <intent-filter>
                 <action android:name="com.google.glass.action.ACTION_GO_TO_SETTINGS" />
-                <category android:name="android.intent.category.DEFAULT" />
+<!--                <category android:name="android.intent.category.DEFAULT" />-->
             </intent-filter>
             <intent-filter>
                 <action
